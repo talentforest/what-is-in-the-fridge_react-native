@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "my-fridge",
+    "slug": "my-fridge",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "my-fridge"
+}
